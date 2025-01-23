@@ -2,7 +2,7 @@ Utilisation basique de l'excellente bibliothèque [node-odbc](https://github.com
 
 ### Fonctions :
 - simpleQuery()
-- simpleCursor() pour démontrer la facilité d'dutilisation d'un curseur
+- simpleCursor() pour démontrer la facilité d'utilisation d'un curseur
 
 ### Configuration :
 - Créer un fichier .env, avec dedans :  
