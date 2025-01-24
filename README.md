@@ -7,3 +7,5 @@ Utilisation basique de l'excellente bibliothèque [node-odbc](https://github.com
 ### Configuration :
 - Créer un fichier .env, avec dedans :  
 `DSN=DEVPAIS;UID=xxxx;PWD=xxxx`
+- Lancer `npm run install` dans un terminal
+- Lancer `node ./index.js`
